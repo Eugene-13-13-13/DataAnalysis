@@ -17,7 +17,7 @@ id,brand_name,model,screen_size,price,release_year,operating_system,battery_capa
 16,Realme,Narzo 60x,5.9,56839,2018,Android,5532,4,256,12,8,120,223,7.7,Plastic,Dimensity 9000,Adreno 740,Yes,4G,5.1,WiFi 5,Type-C,120,Yes
 17,Xiaomi,Redmi Note 13,6.17,59409,2020,Android,3550,4,256,108,16,144,192,9.5,Plastic,Dimensity 9000,Mali-G710,No,4G,5.1,WiFi 6E,Type-C,120,No
 18,Realme,Narzo 60x,5.78,7117,2024,Android,4016,8,128,64,32,90,225,8.1,Glass,Dimensity 9000,Adreno 740,No,5G,5.0,WiFi 6E,Type-C,120,No
-19,Oppo,Oppo F21,5.7,-24112,2017,аndroid,3868,6,64,108,8,60,167,9.5,Plastic,Dimensity 9000,Adreno 740,Yes,4G,5.0,WiFi 6E,Type-C,33,Yes
+19,Oppo,Oppo F21,5.7,-24112,2017,Android,3868,6,64,108,8,60,167,9.5,Plastic,Dimensity 9000,Adreno 740,Yes,4G,5.0,WiFi 6E,Type-C,33,Yes
 20,Nokia,Nokia G21,6.5,19876,2024,Android,4290,4,256,64,16,90,160,7.5,Metal,Snapdragon 8 Gen 2,Mali-G710,Yes,4G,5.2,WiFi 6E,Type-C,67,No
 21,Nokia,Nokia G21,6.68,6641,2020,Android,4622,6,512,48,16,144,232,9.3,Plastic,Apple A16,Apple GPU,No,4G,5.2,WiFi 5,Type-C,67,No
 22,Realme,Realme 11 Pro,5.93,42242,2017,Android,5788,4,128,108,32,90,180,6.7,Metal,Snapdragon 8 Gen 2,Mali-G710,Yes,4G,5.0,WiFi 6E,Type-C,120,Yes
@@ -75,7 +75,7 @@ id,brand_name,model,screen_size,price,release_year,operating_system,battery_capa
 74,Motorola,Moto Edge 50,5.87,45439,2015,Android,4110,4,256,64,16,90,182,8.2,Metal,Dimensity 9000,Adreno 740,Yes,4G,5.0,WiFi 5,Type-C,67,Yes
 75,Oppo,Oppo Reno 8,5.66,52225,2018,Android,4906,12,128,64,8,90,180,7.9,Plastic,Dimensity 9000,Adreno 740,Yes,5G,5.2,WiFi 5,Type-C,120,No
 76,OnePlus,OnePlus 9,5.24,47816,2023,Android,3083,8,256,64,32,144,184,7.8,Plastic,Dimensity 9000,Adreno 740,No,5G,5.1,WiFi 5,Type-C,18,Yes
-77,Google,Pixel 6,5.41,48881,2024,аndroid,4301,6,64,48,8,60,240,9.4,Glass,Apple A16,Apple GPU,No,5G,5.1,WiFi 5,Type-C,33,No
+77,Google,Pixel 6,5.41,48881,2024,Android,4301,6,64,48,8,60,240,9.4,Glass,Apple A16,Apple GPU,No,5G,5.1,WiFi 5,Type-C,33,No
 78,Vivo,Vivo V27,5.16,36377,2022,Android,5916,12,512,64,8,144,209,9.3,Plastic,Snapdragon 8 Gen 2,Adreno 740,Yes,4G,5.0,WiFi 5,Type-C,67,No
 79,Oppo,Oppo Reno 8,6.06,52470,2015,Android,5522,12,256,48,8,60,197,9.4,Plastic,Snapdragon 8 Gen 2,Adreno 740,No,4G,5.0,WiFi 5,Type-C,33,No
 80,Motorola,Moto Edge 50,5.92,28465,2022,Android,4121,6,128,64,8,120,228,7.0,Plastic,Snapdragon 8 Gen 2,Apple GPU,No,5G,5.1,WiFi 6E,Type-C,120,No
@@ -218,7 +218,7 @@ id,brand_name,model,screen_size,price,release_year,operating_system,battery_capa
 217,Nokia,Nokia X30,6.54,28810,2015,Android,3036,6,64,12,16,120,173,8.6,Plastic,Snapdragon 8 Gen 2,Adreno 740,No,4G,5.0,WiFi 6,Type-C,33,Yes
 218,OnePlus,OnePlus 9,6.5,19605,2019,Android,5474,12,256,48,16,90,172,7.0,Glass,Snapdragon 8 Gen 2,Mali-G710,No,5G,5.1,WiFi 6,Type-C,120,Yes
 219,Apple,iPhone 14,7.12,70612,2025,iOS,5497,4,128,12,32,60,220,7.0,Plastic,Apple A16,Mali-G710,Yes,4G,5.0,WiFi 6E,Type-C,120,Yes
-220,Apple,iPhone 14,6.31,120224,2021,IOS,4307,4,256,12,16,90,214,8.9,Plastic,Snapdragon 8 Gen 2,Apple GPU,Yes,4G,5.0,WiFi 5,Type-C,67,No
+220,Apple,iPhone 14,6.31,120224,2021,iOS,4307,4,256,12,16,90,214,8.9,Plastic,Snapdragon 8 Gen 2,Apple GPU,Yes,4G,5.0,WiFi 5,Type-C,67,No
 221,Samsung,Galaxy S22,6.42,106213,2022,Android,5463,12,128,12,32,90,161,7.4,Plastic,Dimensity 9000,Adreno 740,No,5G,5.1,WiFi 5,Type-C,18,Yes
 222,OnePlus,OnePlus 11,5.34,9593,2021,Android,4907,4,64,12,16,60,170,6.8,Glass,Dimensity 9000,Mali-G710,No,5G,5.1,WiFi 5,Type-C,18,No
 223,OnePlus,Nord CE 3,5.72,6820,2025,Android,4919,6,256,108,8,60,161,7.6,Glass,Dimensity 9000,Apple GPU,No,5G,5.1,WiFi 6E,Type-C,33,No
